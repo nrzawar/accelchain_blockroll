@@ -18,4 +18,5 @@ BlockRoll is a blockchain-based gambling platform that offers users the chance t
 - Web3.js & React.js: Frontend integration
 
 BlockRoll brings a new level of trust and excitement to online gambling by utilizing blockchain technology. Play, bet, and win – all while enjoying the transparency and security of decentralized applications.
+Try this out on >> https://coinflip-n1xt.onrender.com/ (reach out to me on discord for the tokens used here)
 
