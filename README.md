@@ -1,3 +1,5 @@
+
+![poster](https://github.com/user-attachments/assets/7e6e8ead-5698-4d17-bf03-c45c91299811)
 # BlockRoll: Decentralized Gambling Platform
 
 BlockRoll is a blockchain-based gambling platform that offers users the chance to play fun and fair betting games, including a Coin Flip, Dice Roll, and Event-based Betting (such as betting on the outcome of live sports events). Built with a focus on transparency and security, BlockRoll leverages the power of blockchain to ensure that all games and transactions are trustless and tamper-proof.
